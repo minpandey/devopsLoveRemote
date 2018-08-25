@@ -8,7 +8,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String index() {
-        return "Namaste Jenkins ss";
+        return "Namaste from git Jenkins ss";
     }
 
 }
